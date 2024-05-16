@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.demo_applink",
+    "package_name": "com.mio.sportnow",
     "sha256_cert_fingerprints":
-    ["E9:64:9F:04:30:1B:E2:E9:C3:8D:C1:52:DC:DD:B7:34:2A:E4:BD:EE:BA:4A:EB:5C:9E:27:A0:94:B8:96:3A:B7"]
+    ["4C:08:B2:71:01:21:11:81:16:A3:73:F5:98:BF:57:EC:6E:9C:73:05:8C:40:C0:FA:A2:6C:18:50:3E:D9:37:EE"]
   }
 }]
